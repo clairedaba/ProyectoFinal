@@ -1,4 +1,7 @@
+
 import pika
+
+
 
 class MessageQueue:
     def __init__(self, host='localhost'):
